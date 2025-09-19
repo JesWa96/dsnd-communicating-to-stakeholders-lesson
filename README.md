@@ -26,9 +26,23 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+BootcampStats.ipynb
+Explores the role of coding bootcamps in helping individuals transition into developer roles and examines their impact on diversity in the tech industry.
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+HowToBreakIntoTheField.ipynb
+Investigates strategies and pathways that developers have used to enter the field, including the types of education and experience most commonly recommended.
+
+Salary.ipynb
+Analyzes factors that influence developer salaries, such as education, experience, and demographic characteristics.
+
+Salary_ML.py
+Contains the Python script used to build and run the machine learning model for predicting salaries based on survey data.
+
+README.md
+Provides project overview, motivation, file descriptions, and references.
+
+LICENSE.md
+States licensing information and usage rights for this repository.
 
 ## Results<a name="results"></a>
 
